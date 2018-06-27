@@ -1,0 +1,47 @@
+{
+  "Bat":
+	{
+ 		"health": 40,
+ 		"damage": 2,
+ 		"armour": 0,
+		"description": "I am a Creature from the \ndarkest depths of \nyour mind!!!",
+		"attack": "\nThe bat sinks its fangs into \nyour noggin",
+		"dead":  "\nThis bat is an ex-bat now",
+		"model": "Bat",
+		"model_scale": 1.0
+	},
+	
+	"Rat": 
+	{
+		"health": 50,
+		"damage": 3,
+		"armour": 1,
+		"description": "I am not as useless as \nyou may think!",
+		"attack": "\nThe rat sinks its mangy teeth \ninto your arm",
+		"dead":  "\nThe rat has a siezure",
+		"model": "Rat",
+		"model_scale": 1.0
+	},
+
+  "Cat": {
+    "health": 60,
+    "damage": 4,
+    "armour": 2,
+    "description": "Meow! Hiss! (purr...)",
+    "attack": "\nThe cat flails around and nicks \nyour skin",
+    "dead": "\nThe cat got bored and walked off",
+    "model": "Cat",
+    "model_scale": 1.0
+  },
+
+  "Le Boss": {
+    "health": 200,
+    "damage": 20,
+    "armour": 8,
+    "description": "Errgh",
+    "attack": "\nMan it's a hot one",
+    "dead": "\nThe boss wasn't invincible enough \nto beat you",
+    "model": "Boss",
+    "model_scale": 1.0
+  }
+}

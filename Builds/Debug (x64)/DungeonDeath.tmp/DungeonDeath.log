@@ -1,0 +1,22 @@
+﻿  ViewportPanel.cpp
+  StatsPanel.cpp
+c:\users\chip\desktop\dungeondeathgame-master-4b183a4245d4ce62487c0b2bff5aba45e9bbfcb1\source\statspanel.cpp(38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\chip\desktop\dungeondeathgame-master-4b183a4245d4ce62487c0b2bff5aba45e9bbfcb1\source\statspanel.cpp(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Room.cpp
+  Player.cpp
+  Panel.cpp
+  MapPanel.cpp
+  main.cpp
+  InputPanel.cpp
+  GamePanel.cpp
+  GameObject.cpp
+  Game.cpp
+c:\users\chip\desktop\dungeondeathgame-master-4b183a4245d4ce62487c0b2bff5aba45e9bbfcb1\source\game.cpp(108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Font.cpp
+  Dungeon.cpp
+  Die.cpp
+  Bat.cpp
+  Actor.cpp
+  Action.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'Engine_x64.lib'
